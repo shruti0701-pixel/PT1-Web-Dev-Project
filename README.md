@@ -23,6 +23,7 @@ CONCLUSION:
 3. Regardless of the imperfection of this application, the core features offered can still run well. 
 4. This is evidenced by the survey results that show about 90% of users agree if the application is released globally.
 
+It should be done be wampp and the website will be opened in local host.
 
 
 
