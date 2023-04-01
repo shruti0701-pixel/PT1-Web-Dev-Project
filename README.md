@@ -16,8 +16,7 @@ system after registering to the website while a new user can advertise about the
 ![image](https://user-images.githubusercontent.com/74805128/205492975-3248b182-c9a6-49d0-9502-9cf1c7031fa1.png)
 
 CONCLUSION:
-1. Food Recipe Application is an application that moves in the search field, more specifically, this application has a function to find recipes online with the basis 
-  of similarity of materials owned by the user.
+1. Food Recipe Application is an application that moves in the search field, more specifically, this application has a function to find recipes online with the basis of similarity of materials owned by the user.
 2. With this application users can find recipes with ingredients that match what is owned by the user. From various surveys and series of tests performed related to the
    functional Recipe application, it can be concluded that this application is able to be accepted by the user well.  
 3. Regardless of the imperfection of this application, the core features offered can still run well. 
